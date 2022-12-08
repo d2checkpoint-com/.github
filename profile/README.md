@@ -22,7 +22,7 @@ Want to contribute to one of our projects? Visit each project's page for more in
 
 We welcome contributions from the community! If you're interested in contributing to one of our projects, please follow these steps:
 
-1. Read our [Code of Conduct](!todo) to understand our guidelines for acceptable behavior.
+1. Read our [Code of Conduct](https://github.com/d2checkpoint-com/.github/blob/main/profile/code-of-conduct.md) to understand our guidelines for acceptable behavior.
 2. Check out our projects and resources to see what needs to be done and find something that interests you.
 3. Fork the repository and make your changes on a new branch.
 4. Run the tests to make sure your changes haven't introduced any new bugs.
