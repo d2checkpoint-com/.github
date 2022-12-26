@@ -4,15 +4,15 @@ D2Checkpoint.com is a website that hosts checkpoints for raids and dungeons in t
 
 ## Our Projects
 
-- [Website](https://github.com/d2checkpoint-com/d2checkpoint.com): The main website where players can upload and download checkpoint saves.
+- [Website](https://github.com/d2checkpoint-com/d2checkpoint.com): The main website where players can access checkpoint saves.
 - [Backend API](https://github.com/d2checkpoint-com/backend): The API that powers the website and allows other tools to interact with it.
-- [Discord Bot](https://github.com/d2checkpoint-com/bot): A bot that integrates with the Discord chat platform and allows players to manage their checkpoint saves without leaving the app.
+- [Discord Bot](https://github.com/d2checkpoint-com/bot): A bot that integrates with the Discord chat platform and allows admins to update the website in a secure manner.
 
 ## Resources
 
 - Our [scripts](https://github.com/D2Checkpoint/scripts) for setting up the virtual machines we use to run our bots
 - Our [macros](https://github.com/D2Checkpoint/macros) for controlling the bots
-- A list of [frequently asked questions](https://d2checkpoint.com/faq)!todo about our website and services
+- A list of [frequently asked questions](https://d2checkpoint.com/faq) about our website and services
 
 ## Get Involved
 
